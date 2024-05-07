@@ -46,6 +46,9 @@
         </p>
         <h3>Languages and Tools:</h3>
         <div class="tools">
+            <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+            </a>
             <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
             </a>
@@ -59,17 +62,8 @@
                 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/> 
             </a> 
             <a href="https://wandb.ai" target="_blank" rel="noreferrer"> 
-                <img src="https://wandb.ai/site-media/wandb/assets/logos/wandb-logo-full-gradient.svg" alt="wandb" width="40" height="40"/> 
+                <img src="https://github.com/wandb/assets/blob/main/wandb-logo-yellow-dots-black-wb.svg" alt="wandb" width="40" height="40"/> 
             </a> 
-            <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-            </a> 
-            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-            </a> 
-            <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-            </a>
             <!-- Add more tools and languages as needed -->
         </div>
     </div>
