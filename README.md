@@ -1,4 +1,4 @@
-### Hi, I'm Linh.
+### Hi, I'm Linh
 
 A 3rd-year student in Data Science and AI major at Hanoi University of Science and Technology
 
@@ -10,7 +10,7 @@ A 3rd-year student in Data Science and AI major at Hanoi University of Science a
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
     </a> 
