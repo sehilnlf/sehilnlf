@@ -61,9 +61,9 @@
             <a href="https://huggingface.co" target="_blank" rel="noreferrer"> 
                 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/> 
             </a> 
-            <a href="https://wandb.ai" target="_blank" rel="noreferrer"> 
-                <img src="https://github.com/wandb/assets/blob/main/wandb-logo-yellow-dots-black-wb.svg" alt="wandb" width="40" height="40"/> 
-            </a> 
+        <a href="https://wandb.ai" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/wandb/assets/blob/main/wandb-logo-yellow-dots-black-wb.svg" alt="wandb" width="40" height="40" style="background-color: white;"/> 
+        </a> 
             <!-- Add more tools and languages as needed -->
         </div>
     </div>
