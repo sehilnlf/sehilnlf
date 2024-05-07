@@ -1,9 +1,11 @@
 <h1>Hi, I'm Linh.</h1>
-<h3>A 3rd-year student in Data Science and AI major at Hanoi University of Science and Technology</h3>
+<a>A 3rd-year student in Data Science and AI major at Hanoi University of Science and Technology</a>
+
 <h3>Connect with me:</h3>
 <p>
     <!-- Add your social media links here -->
 </p>
+
 <h3>Languages and Tools:</h3>
 <div class="tools">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
