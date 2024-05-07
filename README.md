@@ -1,4 +1,4 @@
-<h1>Hi, I'm Linh.</h1>
+<h1>Hi, I'm Linh</h1>
 <a>A 3rd-year student in Data Science and AI major at Hanoi University of Science and Technology</a>
 
 <h3>Connect with me:</h3>
