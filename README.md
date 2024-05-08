@@ -10,7 +10,7 @@ Hi everyone, my name is Linh, a Data Science and Artificial Intelligence student
 - **Data Visualization**: Currently learning to using tools like Matplotlib, Seaborn, and Plotly to effectively visualize data.
 - **Parallel and Distributed Programming**: Basic knowledge of parallel and distributed programming.
 
-<div class="tools">
+<div class="tools" style="text-align: center;">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a>
