@@ -10,12 +10,6 @@ Hi everyone, my name is Linh, a Data Science and Artificial Intelligence student
 - **Data Visualization**: Currently learning to using tools like Matplotlib, Seaborn, and Plotly to effectively visualize data.
 - **Parallel and Distributed Programming**: Basic knowledge of parallel and distributed programming.
 
-### Goals:
-My goal is to become an expert in Data Science and Artificial Intelligence, with the ability to apply my knowledge and skills to solve problems in **healthcare, finance, education and natural resources and environment,**...
-
-If you are interested in collaborating or exchanging ideas on Data Science and Artificial Intelligence topics, please feel free to reach out to me via email linh.bk2153@gmail.com
-
-<h3>Languages and Tools:</h3>
 <div class="tools">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -38,4 +32,11 @@ If you are interested in collaborating or exchanging ideas on Data Science and A
     <!-- Add more tools and languages as needed -->
 </div>
 </div>
+
+### Goals:
+My goal is to become an expert in Data Science and Artificial Intelligence, with the ability to apply my knowledge and skills to solve problems in **healthcare, finance, education and natural resources and environment,**...
+
+If you are interested in collaborating or exchanging ideas on Data Science and Artificial Intelligence topics, please feel free to reach out to me via email linh.bk2153@gmail.com
+
+
 
