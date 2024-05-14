@@ -1,6 +1,6 @@
 ### About Me
 
-Hi, my name is Linh, a Data Science and Artificial Intelligence student at Hanoi University of Science and Technology.
+Hi, I am Linh, a Data Science and Artificial Intelligence student at Hanoi University of Science and Technology.
 
 ### Skills and Expertise:
 - **Computer Vision**: Experienced in using libraries like OpenCV, TensorFlow, and PyTorch for image and video processing and analysis.
