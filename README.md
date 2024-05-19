@@ -7,7 +7,7 @@ Hi, I am Linh, a Data Science and Artificial Intelligence student at Hanoi Unive
 - **Optimization**: Familiar with optimization algorithms such as gradient descent, dynamic programming, and linear programming.
 - **AI and Machine Learning**: Strong foundation in popular machine learning models including supervised learning and unsupervised learning.
 - **NLP (Natural Language Processing)**: Currently learning and researching natural language processing, including sentiment analysis, grammar correction.
-- **Data Visualization**: Currently learning to using tools like Matplotlib, Seaborn, and Plotly to effectively visualize data.
+- **Data Visualization**: Currently learning to use tools like the Observable framework, Matplotlib, and Seaborn, along with principles to effectively visualize data.
 - **Parallel and Distributed Programming**: Basic knowledge of parallel and distributed programming.
 
 <div class="tools" style="text-align: center;">
