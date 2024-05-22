@@ -3,11 +3,14 @@
 Hi, I am Linh, a Data Science and Artificial Intelligence student at Hanoi University of Science and Technology.
 
 ### Skills and Expertise:
+- **Data Crawling**: Experienced in using methods like APIs, XPath, and web scraping tools for data crawling.
+- **Data Cleaning**: Skilled in techniques such as handling missing values, correcting errors or inconsistencies, removing duplicates, dealing with noisy data, converting data formats (standardization), and data encoding.
+- **Data Analysis**: Capable of working with different types of data including time series data, image data, and text data.
+- **Data Visualization**: Experienced in using tools like Matplotlib and Seaborn, and familiar with principles for effective data visualization.
 - **Computer Vision**: Experienced in using libraries like OpenCV, TensorFlow, and PyTorch for image and video processing and analysis.
 - **Optimization**: Familiar with optimization algorithms such as gradient descent, dynamic programming, and linear programming.
-- **AI and Machine Learning**: Strong foundation in popular machine learning models including supervised learning and unsupervised learning.
-- **NLP (Natural Language Processing)**: Currently learning and researching natural language processing, including sentiment analysis, grammar correction.
-- **Data Visualization**: Currently learning to use tools like the Observable framework, Matplotlib, and Seaborn, along with principles to effectively visualize data.
+- **AI and Machine Learning**: Strong foundation in popular machine learning models including supervised and unsupervised learning techniques such as Linear Regression, Logistic Regression, Decision Trees, Random Forests, Support Vector Machines (SVM), Neural Networks, K-Nearest Neighbors (KNN), and K-means Clustering. Knowledgeable in cross-validation, hyperparameter tuning, regularization, and handling overfitting.
+- **NLP (Natural Language Processing)**: Currently studying and researching natural language processing, including sentiment analysis and grammar correction.
 - **Parallel and Distributed Programming**: Basic knowledge of parallel and distributed programming.
 
 <div class="tools" style="text-align: center;">
