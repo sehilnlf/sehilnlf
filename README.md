@@ -3,16 +3,13 @@
 Hi, I am Linh, a Data Science and Artificial Intelligence student at Hanoi University of Science and Technology.
 
 ### Skills and Expertise:
-- **Data Crawling**: Experienced in using methods like APIs, XPath, and web scraping tools for data crawling.
-- **Data Cleaning**: Skilled in techniques such as handling missing values, correcting errors or inconsistencies, removing duplicates, dealing with noisy data, converting data formats (standardization), and data encoding.
-- **Data Analysis**: Capable of working with different types of data including time series data, image data, and text data.
-- **Data Visualization**: Experienced in using tools like Matplotlib and Seaborn, and familiar with principles for effective data visualization.
-- **Computer Vision**: Experienced in using libraries like OpenCV, TensorFlow, and PyTorch for image and video processing and analysis.
-- **Optimization**: Familiar with optimization algorithms such as gradient descent, dynamic programming, and linear programming.
-- **AI and Machine Learning**: Strong foundation in popular machine learning models including supervised and unsupervised learning techniques such as Linear Regression, Logistic Regression, Decision Trees, Random Forests, Support Vector Machines (SVM), Neural Networks, K-Nearest Neighbors (KNN), and K-means Clustering. Knowledgeable in cross-validation, hyperparameter tuning, regularization, and handling overfitting.
-- **NLP (Natural Language Processing)**: Currently studying and researching natural language processing, including sentiment analysis and grammar correction.
-- **Parallel and Distributed Programming**: Basic knowledge of parallel and distributed programming.
-
+- Python, NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, Hugging Face, wandb
+- Machine Learning: Supervised/Unsupervised Learning, CNN, Deep Learning
+- Computer Vision: Object Detection
+- NLP: Sentiment Analysis, Grammar Correction
+- Data Crawling, Data Cleaning, Data Analysis, Data Visualization with Time Series, Image, Text Data
+- Others: SQL, Databases, OOP, GitHub, Parallel & Distributed Programming (Basic Knowledge)
+ 
 <div class="tools" style="text-align: center;">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
