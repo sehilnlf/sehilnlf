@@ -36,7 +36,7 @@ Hi, I am Linh, a Data Science and Artificial Intelligence student at Hanoi Unive
 ### Goals:
 My goal is to become an expert in Data Science and Artificial Intelligence, with the ability to apply my knowledge and skills to solve problems in **healthcare, finance, education and natural resources and environment,**...
 
-If you are interested in collaborating or exchanging ideas on Data Science and Artificial Intelligence topics, please feel free to reach out to me via email linh.bk2153@gmail.com
+If you are interested in collaborating or exchanging ideas on Data Science and Artificial Intelligence topics, please feel free to reach out to me via email linhbuik.work@gmail.com
 
 
 
