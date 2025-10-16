@@ -1,6 +1,6 @@
 ### About Me
 
-Hi, I am Linh, a Data Science and Artificial Intelligence student at Hanoi University of Science and Technology.
+Hi, I am Linh, a Data Scientist
 
 ### Skills and Expertise:
 - Python, NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, Hugging Face, wandb
