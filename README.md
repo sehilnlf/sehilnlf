@@ -3,7 +3,7 @@
 Hi, I am Linh, a Data Scientist
 
 ### Skills and Expertise:
-- Python, NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, Hugging Face, wandb
+- Python, NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow
 - Machine Learning: Supervised/Unsupervised Learning, CNN, Deep Learning
 - Computer Vision: Object Detection
 - NLP: Sentiment Analysis, Grammar Correction
